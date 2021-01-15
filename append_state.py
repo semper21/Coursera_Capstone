@@ -4,6 +4,7 @@ Created on Jan 15, 2020
 @author: ywkim
 '''
 
+from geopy.geocoders import Nominatim
 import pandas as pd
 from sys import argv
 
@@ -30,6 +31,7 @@ if __name__ == '__main__':
     df_election = pd.read_csv(election_file)
 
     state_list = []
+    geolocator = Nominatim(user_agent="us_explorer")
     for lat, lng in zip(df_parler['Latitude'], df_parler['Longitude']):
         coord = str(lat) + ', ' + str(lng)
         city, state, country = city_state_country(coord)
