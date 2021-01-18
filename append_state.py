@@ -32,10 +32,14 @@ if __name__ == '__main__':
 
     state_list = []
     geolocator = Nominatim(user_agent="us_explorer")
+    flag=0
     for lat, lng in zip(df_parler['Latitude'], df_parler['Longitude']):
         coord = str(lat) + ', ' + str(lng)
         city, state, country = city_state_country(coord)
         state_list.append(state)
+        flag+=1
+        if flag % 500 == 0:
+            print(flag)
 
     df_parler['State'] = state_list
     df_parler.drop(df_parler[df_parler['State'] == 'NA'].index, inplace=True)
