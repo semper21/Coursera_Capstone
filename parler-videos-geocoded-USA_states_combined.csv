@@ -1,4 +1,3 @@
-Longitude,Latitude,Timestamp,ID,State,Party
 -118.8878,39.5554,2011-08-01 22:22:40,RGTLwBQugFNU,Nevada,Dem
 -116.0116,40.7207,2014-12-27 23:40:00,MfSxUGHQ0sk3,Nevada,Dem
 -116.0116,40.7207,2014-12-27 23:40:00,gqMqwXAdhMf5,Nevada,Dem
@@ -5878,7 +5877,6 @@ Longitude,Latitude,Timestamp,ID,State,Party
 -75.1217,38.5877,2020-06-21 17:10:31,hLIcIPDVwVtW,Delaware,Dem
 -75.5145,39.1033,2020-06-21 22:34:19,HQJCVoZQxfwD,Delaware,Dem
 -75.4781,39.2766,2020-06-26 09:44:02,MXLDaUBEsXdh,Delaware,Dem
-Longitude,Latitude,Timestamp,ID,State,Party
 -96.8961,46.8103,2020-06-30 03:14:16,wxWKrcDfvkOs,North Dakota,Rep
 -102.8434,46.5771,2020-07-02 18:58:32,olSGNchBnSoY,North Dakota,Rep
 -97.9339,46.8189,2020-07-04 22:10:37,8BxzE7tzFAI0,North Dakota,Rep
@@ -11685,7 +11683,6 @@ Longitude,Latitude,Timestamp,ID,State,Party
 -73.0831,42.7678,2020-07-25 20:53:08,LTxST95Vi2PG,Vermont,Dem
 -73.2688,44.515,2020-07-31 00:29:02,vV1vCguMdmH7,Vermont,Dem
 -73.2516,44.5108,2020-08-05 01:11:36,wMEOOHDWd4Sn,Vermont,Dem
-Longitude,Latitude,Timestamp,ID,State,Party
 -81.1455,29.4978,2020-08-14 19:57:25,R1NPKIHaLK4J,Florida,Rep
 -82.7304,27.8933,2020-08-14 20:13:59,AyYLzKhauAHl,Florida,Rep
 -82.7218,27.6202,2020-08-14 21:17:12,PuvyWpVhokQF,Florida,Rep
@@ -17573,7 +17570,6 @@ Longitude,Latitude,Timestamp,ID,State,Party
 -73.2949,43.93,2020-09-28 22:58:49,0tVUB3uITjLd,Vermont,Dem
 -73.3046,44.5596,2020-09-29 17:43:43,637dZn75Tkbc,Vermont,Dem
 -72.9832,43.5983,2020-10-03 21:50:18,5GiswfNYQXVB,Vermont,Dem
-Longitude,Latitude,Timestamp,ID,State,Party
 -77.4993,34.4528,2020-10-06 23:19:59,4ZVib5TR6ohf,North Carolina,Rep
 -78.745,35.6917,2020-10-07 01:01:09,bIake9wcwU5J,North Carolina,Rep
 -78.745,35.6917,2020-10-07 01:01:09,xjbjMziBFkZI,North Carolina,Rep
@@ -23502,7 +23498,6 @@ Longitude,Latitude,Timestamp,ID,State,Party
 -73.2515,44.5107,2020-10-14 17:56:38,9f2phRKwhkA0,Vermont,Dem
 -73.2515,44.5107,2020-10-15 03:27:00,sak5MbzZ1Wyc,Vermont,Dem
 -72.4094,43.4238,2020-10-29 15:07:31,F9TFuJlWYPWJ,Vermont,Dem
-Longitude,Latitude,Timestamp,ID,State,Party
 -73.4858,40.6817,2020-11-03 18:01:55,NAm12dATtc5b,New York,Dem
 -73.4858,40.6817,2020-11-03 18:01:55,Qa6kCeCWY8X1,New York,Dem
 -73.4858,40.6817,2020-11-03 18:01:55,m5dcfwCqFDN4,New York,Dem
@@ -29446,7 +29441,6 @@ Longitude,Latitude,Timestamp,ID,State,Party
 -73.2192,44.4812,2020-11-08 20:54:51,7yy4W1eiiEaK,Vermont,Dem
 -71.9121,44.797,2020-11-09 01:28:51,qr5JyIbwAoVl,Vermont,Dem
 -72.5907,43.2632,2020-11-10 22:10:55,frzByVBwdnXS,Vermont,Dem
-Longitude,Latitude,Timestamp,ID,State,Party
 -117.8729,34.0833,2020-11-11 13:47:26,CMIoUPnX3kqW,California,Dem
 -117.8729,34.0833,2020-11-11 13:47:26,r6mooFlMkK5W,California,Dem
 -119.7203,36.8183,2020-11-11 13:59:03,F4QW3vYbDhs8,California,Dem
@@ -34064,7 +34058,6 @@ Longitude,Latitude,Timestamp,ID,State,Party
 -72.2977,44.4182,2020-11-15 04:01:47,iaJ4RVxgJQiE,Vermont,Dem
 -72.2977,44.4182,2020-11-15 04:01:47,voQIS7VJ1MbP,Vermont,Dem
 -72.2977,44.4182,2020-11-15 04:01:47,dqZBcX8JAI2r,Vermont,Dem
-Longitude,Latitude,Timestamp,ID,State,Party
 -90.0334,32.3518,2020-11-15 20:39:03,HGb2xaTWTPU0,Mississippi,Rep
 -90.0335,32.3518,2020-11-15 21:22:20,ysP0iIJRfmIZ,Mississippi,Rep
 -90.0467,32.5139,2020-11-15 21:27:01,rfsvfOTWVpgL,Mississippi,Rep
@@ -39971,7 +39964,6 @@ Longitude,Latitude,Timestamp,ID,State,Party
 -106.6134,35.1346,2020-11-24 09:24:08,9cf0eCHrIqxu,New Mexico,Dem
 -104.205,32.3704,2020-11-25 03:26:10,wP618mXBzro7,New Mexico,Dem
 -106.5154,35.191,2020-11-25 16:33:56,2GVvLbrhZUDF,New Mexico,Dem
-Longitude,Latitude,Timestamp,ID,State,Party
 -81.6132,28.8634,2020-11-26 16:11:44,iBm9692r2LJ4,Florida,Rep
 -80.4111,25.7177,2020-11-26 16:13:53,puDFvVieCcs0,Florida,Rep
 -80.4111,25.7177,2020-11-26 16:13:53,9eZx6bhqayMM,Florida,Rep
@@ -45840,7 +45832,6 @@ Longitude,Latitude,Timestamp,ID,State,Party
 -109.7666,42.971000000000004,2020-12-07 23:42:30,WEGbITMwBBCs,Wyoming,Rep
 -106.6998,44.3423,2020-12-08 17:40:03,LHcGcYMDZ0L6,Wyoming,Rep
 -107.2515,41.7997,2020-12-09 03:23:20,Rl5dPuyUh6ak,Wyoming,Rep
-Longitude,Latitude,Timestamp,ID,State,Party
 -112.2916,33.5793,2020-12-12 04:40:07,1gs52eAgXXaT,Arizona,Dem
 -114.5333,35.1498,2020-12-12 14:28:58,NvDCKQ56tSKS,Arizona,Dem
 -111.7836,34.5239,2020-12-12 17:45:41,0PIKfXoe5FHk,Arizona,Dem
@@ -51142,7 +51133,6 @@ Longitude,Latitude,Timestamp,ID,State,Party
 -69.6652,44.2428,2020-12-20 16:34:18,yt2jkxi3u3OL,Maine,Dem[m]
 -68.3704,45.3025,2020-12-25 01:19:38,Zc438vuabHvP,Maine,Dem[m]
 -70.7333,44.4218,2020-12-25 21:27:15,CV2CPJJ5iOKE,Maine,Dem[m]
-Longitude,Latitude,Timestamp,ID,State,Party
 -122.5937,45.4911,2021-01-01 05:36:20,z9C6pnwK77yu,Oregon,Dem
 -123.0515,44.0663,2021-01-01 06:04:06,592B00f4YSFU,Oregon,Dem
 -123.0515,44.0663,2021-01-01 06:04:06,oKuVNz4C2lOM,Oregon,Dem
